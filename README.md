@@ -33,7 +33,7 @@ This portfolio is a compilation of my work, including projects in areas like dat
 To view the portfolio, you can either:
 1. Clone this repository
    
- git clone https://github.com/your-username/portfolio
+ git clone https://github.com/AjmalPatel16/My-Portfolio
 
 3. Open the `index.html` file in your web browser.
 
@@ -45,5 +45,5 @@ This project doesn't require any external libraries or dependencies. You can sim
 
 Feel free to reach out to me via:
 - Email: patelajmal04@gmail.com
-- GitHub: [Your GitHub Profile](https://github.com/AjmalPatel16)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mohammed-ajmal-patel-917b42289)
+- GitHub: (https://github.com/AjmalPatel16)
+- LinkedIn: (https://www.linkedin.com/in/mohammed-ajmal-patel-917b42289)
